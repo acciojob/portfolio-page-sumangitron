@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+img{
+	width : 600px;
+	height : 400px;
+}
+#skills{
+	padding-top : 15px;
+}	
+a:hover{
+	color : hotpink;
+}
+
